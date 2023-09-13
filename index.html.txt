@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="styles.css">
+  <title>EletroCasa</title>
+  <link rel="shortcut icon" href="imagem/icon.ico" type="image/x-icon">
+</head>
+
+<body>
+  <header>
+    <div class="header-container">
+      <img src="imagem/aa.png" alt="Logo" class="logo">
+      <a href="index.html">
+        <h1 class="aaa">EletroCasa</h1>
+      </a>
+      <img src="imagem/design.png" class="des">
+    </div>
+  </header>
+
+  <main>
+    <div class="container">
+      <h2>Produtos em Destaque</h2>
+      <div class="product-grid">
+        <div class="product">
+          <a href="microondas.html" target="_blank">
+            <img class="fn1" src="imagem/microondas.png" alt="Micro-ondas Eletrolux De Bancada Efficient 36l Inox 127v">
+            <h3 class="desc">Micro-ondas Eletrolux</h3>
+            <p class="description">O micro-ondas é um grande aliado para preparar comidas de um jeito prático e rápido.
+            </p>
+            <p class="price">R$ 799,00</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="liquidificador.html" target="_blank">
+            <img class="fn1" src="imagem/liquidificador.png" alt="Liquidificador Philips Walita Daily 2 Litros 700W">
+            <h3 class="desc">Liquidificador Philips Walita</h3>
+            <p class="description">Um liquidificador é um aparelho de cozinha e de laboratório utilizado para misturar.
+            </p>
+            <p class="price">R$ 149,99</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="geladeira.html" target="_blank">
+            <img class="fn1" src="imagem/geladeira.png"
+              alt="Geladeira / Refrigerador Samsung Frost Free Side Inverse RF23R6, 536 Litros, Inox - 110 Volts">
+            <h3 class="desc">Geladeira / Refrigerador Samsung Frost Free Side Inverse</h3>
+            <p class="description">Um refrigerador espaçoso e eficiente para manter seus alimentos frescos e
+              organizados.</p>
+            <p class="price">R$ 5.999,00</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="airfreyer.html" target="_blank">
+            <img class="fn1" src="imagem/air fryer.png" alt="Air freyer">
+            <h3 class="desc">Air fryer</h3>
+            <p class="description">Prepara alimentos de forma saudável e crocante, sem utilizar óleo.</p>
+            <p class="price">R$ 299,00</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="forno.html" target="_blank">
+            <img class="fn1" src="imagem/forno.png" alt="Forno Elétrico">
+            <h3 class="desc">Forno Elétrico</h3>
+            <p class="description">Um forno elétrico versátil para assar, grelhar e aquecer alimentos com facilidade.
+            </p>
+            <p class="price">R$ 500,00</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="cooktop.html" target="_blank">
+            <img class="fn1" src="imagem/cooktop.png" alt="Cooktop de Indução">
+            <h3 class="desc">Cooktop de Indução</h3>
+            <p class="description">Facilita o cozimento dos alimentos com rapidez e eficiência.</p>
+            <p class="price">R$ 399,00</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="fogão.html" target="_blank">
+            <img class="fn1" src="imagem/fogão.png" alt="Fogão 5 Bocas">
+            <h3 class="desc">Fogão 5 Bocas</h3>
+            <p class="description">Ideal para cozinhar diversas receitas ao mesmo tempo.</p>
+            <p class="price">R$ 899,00</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="cafeteira.html" target="_blank">
+            <img class="fn1" src="imagem/cafeteira.png" alt="Cafeteira">
+            <h3 class="desc">Cafeteira</h3>
+            <p class="description">Prepara cafés saborosos e aromáticos de forma prática e rápida.</p>
+            <p class="price">R$ 234,90</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="geladeira.html" target="_blank">
+            <img class="fn1" src="imagem/geladeira.png"
+              alt="Geladeira / Refrigerador Samsung Frost Free Side Inverse RF23R6, 536 Litros, Inox - 110 Volts">
+            <h3 class="desc">Geladeira / Refrigerador Samsung Frost Free Side Inverse</h3>
+            <p class="description">Um refrigerador espaçoso e eficiente para manter seus alimentos frescos e
+              organizados.</p>
+            <p class="price">R$ 5.999,00</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="geladeira.html" target="_blank">
+            <img class="fn1" src="imagem/geladeira.png"
+              alt="Geladeira / Refrigerador Samsung Frost Free Side Inverse RF23R6, 536 Litros, Inox - 110 Volts">
+            <h3 class="desc">Geladeira / Refrigerador Samsung Frost Free Side Inverse</h3>
+            <p class="description">Um refrigerador espaçoso e eficiente para manter seus alimentos frescos e
+              organizados.</p>
+            <p class="price">R$ 5.999,00</p>
+          </a>
+        </div>
+
+        <div class="product">
+          <a href="geladeira.html" target="_blank">
+            <img class="fn1" src="imagem/geladeira.png"
+              alt="Geladeira / Refrigerador Samsung Frost Free Side Inverse RF23R6, 536 Litros, Inox - 110 Volts">
+            <h3 class="desc">Geladeira / Refrigerador Samsung Frost Free Side Inverse</h3>
+            <p class="description">Um refrigerador espaçoso e eficiente para manter seus alimentos frescos e
+              organizados.</p>
+            <p class="price">R$ 5.999,00</p>
+          </a>
+        </div>
+        <div class="product">
+          <a href="geladeira.html" target="_blank">
+            <img class="fn1" src="imagem/geladeira.png"
+              alt="Geladeira / Refrigerador Samsung Frost Free Side Inverse RF23R6, 536 Litros, Inox - 110 Volts">
+            <h3 class="desc">Geladeira / Refrigerador Samsung Frost Free Side Inverse</h3>
+            <p class="description">Um refrigerador espaçoso e eficiente para manter seus alimentos frescos e
+              organizados.</p>
+            <p class="price">R$ 5.999,00</p>
+          </a>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <aside>
+
+  </aside>
+
+  <footer>
+
+
+  </footer>
+</body>
+
+</html>
